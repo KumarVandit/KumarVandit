@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KumarVandit
-- 🌱 I’m currently learning cpp and devops.
+- 🌱 Backend Dev || Building Robust Backend Systems
 
 <!---
 KumarVandit/KumarVandit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
